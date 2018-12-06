@@ -1,7 +1,7 @@
 # AutoEmailSender
 **AutoEmailSender** is one simple Python script which can send emails from your email ID to anyone, with authorization from you. You can run this script one time and this will send e-mails to everyone mentioned with proper subject and text in an instant. 
 
-The website of the project is here. 
+The website of the project is [here](https://bidyutchanda.github.io/2018-12-07-email/). 
 
 ## Getting Started
 **Input:** Your own email ID and password (for authorization), the email IDs the email must be sent to and the subject and text of the email. 
